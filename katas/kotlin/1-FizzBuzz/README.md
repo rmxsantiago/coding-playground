@@ -2,7 +2,7 @@
 
 ## Description ##
 
-*Print* numbers the from **1 to 100**, following the criterias below:
+*Print* the numbers from **1 to 100**, following the criteria below:
 
 * For multiples of **three**, print **Fizz**;
 * For multiples of **five**, print **Buzz**;
